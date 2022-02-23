@@ -179,6 +179,9 @@ public class MyDeque<E> implements DequeInterface<E> {
    */
   @SuppressWarnings("unchecked")
   public E peekFirst(){
+    if(size == 0){
+      return null;
+    }
     return (E)data[front];
   }
 
@@ -191,6 +194,9 @@ public class MyDeque<E> implements DequeInterface<E> {
    */
   @SuppressWarnings("unchecked")
   public E peekLast(){
+    if(size == 0){
+      return null;
+    }
     return (E)data[rear];
   }
 }
