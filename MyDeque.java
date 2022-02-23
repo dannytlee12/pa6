@@ -1,5 +1,22 @@
-//add header
+/**
+ *
+ * Name: Danny Lee
+ * ID: A17209209
+ * Email: dtl001@ucsd.edu
+ * Sources used: Zybooks
+ * Some example of sources used would be Tutors, Zybooks, and Lecture Slides
+ *
+ * 2-4 sentence file description here
+  This file contains the MyDeque class, which is an implementation of the
+  Deque ADT. Elements are able to be added/removed from either the front or
+  back.
+ */
 
+
+/*
+This class implements the Deque ADT using a circular array as the underlying
+data structure.
+*/
 public class MyDeque<E> implements DequeInterface<E> {
 
   Object[] data;

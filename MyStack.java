@@ -1,8 +1,9 @@
 /**
- * TODO: Add your file header
- * Name:
- * Email:
- * Sources used: Put "None" if you did not have any external help
+ *
+ * Name: Danny Lee
+ * ID: A17209209
+ * Email: dtl001@ucsd.edu
+ * Sources used: Zybooks
  *
  * This file contains a MyStack class, which is an implementation for the Stack
  * ADT based on MyDeque. Elements can be added/removed from the queue in a LIFO

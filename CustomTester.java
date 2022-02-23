@@ -1,19 +1,21 @@
 /**
- * TODO: Add your file header
+ *
  * Name: Danny Lee
- * ID:
- * Email:
- * Sources used: Put "None" if you did not have any external help
+ * ID: A17209209
+ * Email: dtl001@ucsd.edu
+ * Sources used: Zybooks
  * Some example of sources used would be Tutors, Zybooks, and Lecture Slides
  *
  * 2-4 sentence file description here
+ This file contains a class that tests edge cases for the MyDeque, MyStack,
+ and MyQueue classes.
  */
 
 import org.junit.*;
 import static org.junit.Assert.*;
 
 /**
- * TODO: Add your class header
+ * This class tests edge cases for the MyDeque, MyStack, and MyQueue classes.
  *
  * IMPORTANT: Do not change the method names and points are awarded
  * only if your test cases cover cases that the public tester file
